@@ -52,6 +52,7 @@ def multi_output (region) :
   )
 
   fig2.update_layout (
+  legend_title_text = 'Region',
   yaxis_title = 'Gross Intake Rate at Grade 1'
   )  
 
