@@ -1,4 +1,4 @@
-!pip install Dash
+!pip install Dash==1.13.4
 
 import dash
 import dash_core_components as dcc
