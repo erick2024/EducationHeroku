@@ -1,5 +1,3 @@
-pip install dash==1.13.4
-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
